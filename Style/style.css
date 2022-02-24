@@ -52,7 +52,6 @@ h3 {
 
 header {
     background: #623e3e;
-    height: 19vh;
     color: white;
 }
 
@@ -118,10 +117,6 @@ i {
 }
 
 @media only screen and (max-width: 599px) {
-    header {
-        height: 30vh;
-    }
-
     h3 {
         text-align: center;
         font-size: 2em !important;
@@ -141,10 +136,6 @@ i {
         width: 40%;
     }
 
-    header {
-        height: 22.6vh;
-    }
-
     h3 {
         text-align: center;
     }
@@ -160,11 +151,7 @@ i {
     }
 
     .left img {
-        width: 30%;
-    }
-
-    header {
-        height: 28vh;
+        width: 34%;
     }
 
     h3 {
@@ -183,10 +170,6 @@ i {
 
     .left img {
         width: 30%;
-    }
-
-    header {
-        height: 21vh;
     }
 
     .experience-body {
