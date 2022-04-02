@@ -1,6 +1,6 @@
 # CURRICULUM VITAE
 
-This is my project: [CURRICULUM VITAE](https://curriculumvitaeruanheleno.netlify.app)
+This is my project [Curriculum Vitae](https://curriculumvitaeruanheleno.netlify.app)
 
 ## Table of contents
 
@@ -19,7 +19,7 @@ This is my project: [CURRICULUM VITAE](https://curriculumvitaeruanheleno.netlify
 
 ### Screenshot
 
-![ScreenShot](./src/images/marcaPagina.png)
+![Project](src\Images\project.png)
 
 ## Process
 
