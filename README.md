@@ -15,11 +15,11 @@ This is my project: [CURRICULUM VITAE](https://curriculumvitaeruanheleno.netlify
 
 ### The project
 
-- Create a Curriculum with HTML5, CSS3 and Grids layout 
+- Create a Curriculum with HTML5, CSS3 and Grids
 
 ### Screenshot
 
-![Project](./Assets/images/project.png)
+![ScreenShot](./Assets/images/project.png)
 
 ## Process
 
