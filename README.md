@@ -1,6 +1,6 @@
 # CURRICULUM VITAE
 
-This is my project to the [CURRICULUM VITAE](https://curriculumvitaeruanheleno.netlify.app)
+This is my project: [CURRICULUM VITAE](https://curriculumvitaeruanheleno.netlify.app)
 
 ## Table of contents
 
