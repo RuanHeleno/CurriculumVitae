@@ -25,8 +25,8 @@ This is my project [Curriculum Vitae](https://curriculumvitaeruanheleno.netlify.
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS3
+- [HTML5](https://www.w3schools.com/html/)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Bootstrap5](https://getbootstrap.com)
 
 ## Author
