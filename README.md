@@ -19,7 +19,7 @@ This is my project [Curriculum Vitae](https://curriculumvitaeruanheleno.netlify.
 
 ### Screenshot
 
-![Project](src\Images\project.png)
+![Project](./src/images/project.png)
 
 ## Process
 
